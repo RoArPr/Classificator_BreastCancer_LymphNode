@@ -6,7 +6,7 @@ This work is a modified part of my capstone project 'Machine Learning Engineer N
 I applied a Logistic Regression model to classify tumours respect to the lymph node-code (0: negative, 1:positive),
 using a subset of selected data (27 proteins).
 A heatmap of proteins with significant differences (p<=0.01) is shown.
-Original paper:'Proteogenomics connects somatic mutations to signalling in breast cancer’. Philipp Mertins and co.Nature. 2016.
+Original paper: 'Proteogenomics connects somatic mutations to signalling in breast cancer’. Philipp Mertins and co.Nature. 2016.
 The dataset is also posted in Kaggle.
 
 The project is written in Python and can be run using Anaconda notebook **'classificator_lymphnode.ipynb'** . 
