@@ -2,7 +2,7 @@
 Classificator of tumours respect to the lymph node-code
 
 ## Description
-This work is a modified part of my capstone project 'Machine Learning Engineer Nanodegree' at Udacity (Dec, 2017).
+This work is a modified part of my capstone project 'Machine Learning Engineer Nanodegree' at Udacity (Dec, 2017).                         
 I applied a Logistic Regression model to classify tumours respect to the lymph node-code (0: negative, 1:positive),
 using a subset of selected data (27 proteins).
 A heatmap of proteins with significant differences (p<=0.01) is shown.
